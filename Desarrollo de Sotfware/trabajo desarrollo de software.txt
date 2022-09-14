@@ -1,0 +1,9 @@
+1. Identificar funcionalidades a implementar (caso de uso)
+2. Cada caso de uso genera una épica
+3. Descomponer cada funcionalidad en historias de usuario
+4. Esas historias de usuario subdividirlas en tareas
+tareas pueden ser: elaborar una(s) clase,
+diseñar una interfaz de usuario,
+clase contenedora (si la hay)
+probar la clase, probar la interfaz
+historia de usuario - requerimiento de una funcionalidad puntual
